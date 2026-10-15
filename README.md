@@ -12,3 +12,5 @@ Upgrades:
 | Game | Old Status | New status | Notes    |
 |------|------------|------------|----------|
 | Pong | Preview    | Preview    | Needs JS |
+
+## Help wanted with JS.
